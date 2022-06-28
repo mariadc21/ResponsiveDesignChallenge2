@@ -32,3 +32,17 @@ Form {
 	color: white; 
 	background-color: green}
 
+@media screen and (max-width:1024px){
+	img{ width: 984px;}
+	}
+@media screen and (max-width:768px) {
+	img{width: 728px;}
+	}
+@media screen and (max-width:425px){
+	}
+@media screen and (max-width:375px) {
+	img{width: 325px;}
+	}
+@media screen and (max-width:320px){
+	img{ width: 280px;}
+	}
