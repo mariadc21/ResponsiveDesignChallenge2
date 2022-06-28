@@ -70,9 +70,11 @@ Form {
 @media screen and (max-width:325px){
 		#logo{ width: 280px;}
 		#fresh { width: 280px;}
-		#comment{size: 280px;}
+		#comment{size:280px;}
 		#table{width: 280px;}
 		h1{font-size:2em;}
 		h2{font-size:.80em;}
+		input{size:280px;}
+
 		
 	}
